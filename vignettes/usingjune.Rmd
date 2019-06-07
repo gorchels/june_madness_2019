@@ -1,0 +1,16 @@
+---
+title: "using june madness"
+author: "Madeline Gorchels"
+date: "5/31/2019"
+output: html_document
+vignette: >
+ %\VignetteIndexEntry{usingjune}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+bui
