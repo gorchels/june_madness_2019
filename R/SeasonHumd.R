@@ -9,5 +9,7 @@
 #'
 SeasonHumd = function(city) {
   average_humd = city %>%
+    group_by(month) %>%
     summarise(avg_humd = mean(humidity))
+  return(average_humd)
 }
