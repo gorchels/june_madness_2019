@@ -1,7 +1,7 @@
 ---
-title: "using june madness"
-author: "Madeline Gorchels"
-date: "5/31/2019"
+title: "Using June Madness"
+author: "Madeline Gorchels and Kirby Bartlett"
+date: "6/13/2019"
 output: html_document
 vignette: >
  %\VignetteIndexEntry{usingjune}
@@ -13,4 +13,4 @@ vignette: >
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-bui
+June madness is a package that quantifies the effects of climate on major league baseball. This package requires that you have a tibble formatted like the example bronx data included in this package. To get data for your city of interest, you need data on the high, humidity, and if there was thunder for each day during the baseball season. To see the bronx data type in View(bronx).  
