@@ -26,4 +26,6 @@ documentation for ALL functions
 a vignette that shows how to use several of the functions with the sample data
 3 separate tests - (next weeks lecture)
 
+https://journals.ametsoc.org/doi/full/10.1175/WCAS-D-13-00002.1
 
+https://www.nwf.org/-/media/Documents/PDFs/Press-Releases/Baseball_Fact-Sheet_07-11-18
