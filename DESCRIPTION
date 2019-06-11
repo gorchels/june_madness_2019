@@ -3,9 +3,12 @@ Type: Package
 Title: How Will Climate Change Impact America's Past Time 
 Version: 0.1.0
 Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Maintainer: The package maintainer <gorchels@ucsb.edu>
+Description: June madness is a package that quantifies the effects of climate on major 
+league baseball. This package requires that you have a tibble formatted like the example
+bronx data included in this package.To get data for your city of interest, you need data 
+on the high, humidity, and if there was thunder for each day during the baseball season. 
+To see the bronx data type in View(bronx).  
 License: 007
 Encoding: UTF-8
 LazyData: true
