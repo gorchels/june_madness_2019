@@ -1,0 +1,82 @@
+Gm#,Day,date,Tm,location,Opp,W/L,Homerun,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Revenue,month,high,thunder,humidity
+5,Tuesday,3-Apr,NYY,home,TBR,W,0,4,NA,2-Mar,3,1.5,Kahnle,Pruitt,NA,3:29:00,D,46776,2227473.12,April,43,0,60
+6,Wednesday,4-Apr,NYY,home,TBR,W,0,2,NA,2-Apr,2,1,Severino,Snell,NA,2:44:00,D,40028,1906133.36,April,56,0,68
+7,Thursday,5-Apr,NYY,home,BAL,L,0,5,NA,3-Apr,2,2,Cashner,Tanaka,Brach,3:15:00,N,33653,1602555.86,April,45,0,43
+8,Friday,6-Apr,NYY,home,BAL,L,0,7,14,4-Apr,3,2.5,Araujo,Holder,NA,5:20:00,N,34244,1630699.28,April,62,0,19
+9,Saturday,7-Apr,NYY,home,BAL,W,0,3,NA,4-May,2,2.5,Gray,Tillman,NA,3:03:00,D,34388,1637556.56,April,49,0,66
+10,Sunday,8-Apr,NYY,home,BAL,L,0,8,12,5-May,3,3.5,Bleier,Warren,Brach,4:48:00,D,37096,1766511.52,April,46,0,15
+15,Monday,16-Apr,NYY,home,MIA,W,0,1,NA,7-Aug,3,5,Severino,Smith,NA,3:38:00,N,32525,1548840.5,April,60,1,60
+16,Tuesday,17-Apr,NYY,home,MIA,L,0,9,NA,8-Aug,3,6,Garcia,Tanaka,NA,3:11:00,N,34005,1619318.1,April,47,0,49
+17,Thursday,19-Apr,NYY,home,TOR,W,0,3,NA,8-Sep,3,6.5,Green,Sanchez,Chapman,3:00:00,N,36665,1745987.3,April,49,0,36
+18,Friday,20-Apr,NYY,home,TOR,L,0,8,NA,9-Sep,3,7.5,Estrada,German,Osuna,3:22:00,N,39197,1866561.14,April,50,0,31
+19,Saturday,21-Apr,NYY,home,TOR,W,0,1,NA,9-Oct,3,6.5,Montgomery,Stroman,NA,2:50:00,D,40986,1951753.32,April,63,0,46
+20,Sunday,22-Apr,NYY,home,TOR,W,0,1,NA,9-Nov,3,5.5,Severino,Garcia,NA,2:47:00,D,43628,2077565.36,April,67,0,55
+21,Monday,23-Apr,NYY,home,MIN,W,1,1,NA,9-Dec,3,5,Tanaka,Odorizzi,NA,3:38:00,N,39249,1869037.38,April,68,0,81
+22,Tuesday,24-Apr,NYY,home,MIN,W,0,3,NA,13-9,3,4,Sabathia,Berrios,NA,3:11:00,N,39025,1858370.5,April,66,0,60
+23,Wednesday,25-Apr,NYY,home,MIN,W,0,4,NA,14-9,2,4,Green,Lynn,Chapman,3:40:00,N,39243,1868751.66,April,60,0,54
+24,Thursday,26-Apr,NYY,home,MIN,W-wo,0,3,NA,15-9,2,4,Betances,Rodney,NA,3:05:00,D,40758,1940895.96,April,70,0,24
+32,Friday,4-May,NYY,home,CLE,W-wo,0,6,NA,22-10,2,1,Chapman,Ogando,NA,3:22:00,N,46869,2231901.78,May,84,0,71
+33,Saturday,5-May,NYY,home,CLE,W,0,2,NA,23-10,2,1,Gray,Bauer,Robertson,2:31:00,D,43075,2051231.5,May,76,0,63
+34,Sunday,6-May,NYY,home,CLE,W-wo,0,4,NA,24-10,2,1,Shreve,Allen,NA,3:05:00,D,40107,1909895.34,May,66,0,33
+35,Tuesday,8-May,NYY,home,BOS,W,0,2,NA,25-10,1,Tied,Robertson,Hembree,Chapman,3:29:00,N,45773,2179710.26,May,74,0,69
+36,Wednesday,9-May,NYY,home,BOS,W,0,6,NA,26-10,1,up 1.0,Holder,Barnes,Chapman,3:42:00,N,47088,2242330.56,May,77,0,48
+37,Thursday,10-May,NYY,home,BOS,L,0,5,NA,26-11,1,Tied,Kelly,Betances,Kimbrel,3:21:00,N,46899,2233330.38,May,66,0,59
+38,Friday,11-May,NYY,home,OAK,L,0,10,NA,26-12,1,Tied,Graveman,Gray,Treinen,3:02:00,N,43093,2052088.66,May,73,0,62
+39,Saturday,12-May,NYY,home,OAK,W-wo,0,6,11,27-12,1,Tied,Cole,Hatcher,NA,4:15:00,D,41859,1993325.58,May,63,0,72
+40,Sunday,13-May,NYY,home,OAK,W,0,2,NA,28-12,1,Tied,Severino,Anderson,NA,3:07:00,D,40538,1930419.56,May,54,0,18
+48,Friday,25-May,NYY,home,LAA,W,0,1,NA,32-16,2,1.5,Green,Johnson,Chapman,3:00:00,N,46056,2193186.72,May,86,0,36
+49,Saturday,26-May,NYY,home,LAA,L,0,11,NA,32-17,2,2.5,Barria,Gray,NA,3:30:00,N,44565,2122185.3,May,89,0,85
+50,Sunday,27-May,NYY,home,LAA,W,0,1,NA,33-17,2,1.5,Tanaka,Richards,Chapman,3:27:00,D,46109,2195710.58,May,80,0,21
+51,Monday,28-May,NYY,home,HOU,L,0,5,NA,33-18,2,2.5,Verlander,German,NA,3:14:00,D,46583,2218282.46,May,69,0,60
+52,Tuesday,29-May,NYY,home,HOU,W-wo,0,5,10,34-18,2,2.5,Chapman,Peacock,NA,3:47:00,N,45458,2164709.96,May,89,0,71
+53,Wednesday,30-May,NYY,home,HOU,W,0,3,NA,35-18,2,2.5,Severino,Keuchel,Chapman,2:47:00,N,45229,2153804.98,May,78,0,50
+63,Tuesday,12-Jun,NYY,home,WSN,W,0,0,NA,43-20,2,0.5,Sabathia,Roark,Chapman,2:48:00,N,44220,2105756.4,June,75,0,42
+64,Wednesday,13-Jun,NYY,home,WSN,L,0,5,NA,43-21,2,1.5,Miller,Shreve,Doolittle,3:18:00,N,45030,2144328.6,June,78,0,64
+65,Thursday,14-Jun,NYY,home,TBR,W,0,3,NA,44-21,2,1.5,German,Snell,Chapman,2:49:00,N,45066,2146042.92,June,84,0,52
+66,Friday,15-Jun,NYY,home,TBR,W,0,0,NA,45-21,2,0.5,Loaisiga,Eovaldi,NA,2:44:00,N,45112,2148233.44,June,76,0,32
+67,Saturday,16-Jun,NYY,home,TBR,W,0,1,NA,46-21,1,up 0.5,Severino,Yarbrough,Chapman,2:47:00,D,46249,2202377.38,June,85,0,30
+68,Sunday,17-Jun,NYY,home,TBR,L,0,3,NA,46-22,2,0.5,Roe,Sabathia,Romo,2:45:00,D,46400,2209568,June,91,0,71
+70,Tuesday,19-Jun,NYY,home,SEA,W,0,2,NA,48-22,1,up 1.0,German,Gonzales,NA,2:28:00,N,45122,2148709.64,June,88,0,52
+71,Wednesday,20-Jun,NYY,home,SEA,W-wo,0,5,NA,49-22,1,up 2.0,Chapman,Cook,NA,3:28:00,N,46047,2192758.14,June,83,0,55
+72,Thursday,21-Jun,NYY,home,SEA,W,1,3,NA,50-22,1,up 2.0,Severino,Paxton,Chapman,2:51:00,D,46658,2221853.96,June,83,0,81
+79,Friday,29-Jun,NYY,home,BOS,W,0,1,NA,53-26,1,Tied,Sabathia,Rodriguez,NA,2:41:00,N,47120,2243854.4,June,89,0,21
+80,Saturday,30-Jun,NYY,home,BOS,L,0,11,NA,53-27,2,1,Sale,Gray,NA,3:17:00,N,47125,2244092.5,June,93,0,29
+81,Sunday,1-Jul,NYY,home,BOS,W,0,1,NA,54-27,1,Tied,Severino,Price,NA,3:14:00,N,46795,2228377.9,July,95,0,69
+82,Monday,2-Jul,NYY,home,ATL,L,0,5,11,54-28,2,1,Biddle,Robertson,Minter,3:53:00,N,43792,2085375.04,July,92,1,93
+83,Tuesday,3-Jul,NYY,home,ATL,W,0,5,NA,55-28,2,1,Cole,Newcomb,Chapman,3:46:00,N,45448,2164233.76,July,86,0,50
+84,Wednesday,4-Jul,NYY,home,ATL,W,0,2,NA,56-28,2,1,Sabathia,Teheran,NA,3:07:00,D,46658,2221853.96,July,90,0,28
+96,Friday,20-Jul,NYY,home,NYM,L,0,7,NA,62-34,2,5.5,Syndergaard,German,Gsellman,3:46:00,N,47175,2246473.5,July,79,0,82
+97,Saturday,21-Jul,NYY,home,NYM,W,1,6,NA,63-34,2,4.5,Gray,Matz,Shreve,3:01:00,D,47102,2242997.24,July,79,0,76
+101,Thursday,26-Jul,NYY,home,KCR,W,1,2,NA,65-36,2,4.5,Gray,Junis,NA,2:58:00,N,46965,2236473.3,July,86,1,98
+102,Saturday,Jul 28 (1),NYY,home,KCR,L,0,10,NA,65-37,2,5.5,Keller,Severino,NA,3:06:00,D,46571,2217711.02,NA,NA,NA,NA
+103,Saturday,Jul 28 (2),NYY,home,KCR,W,1,4,NA,66-37,2,5.5,Betances,Flynn,Chapman,3:27:00,N,45043,2144947.66,NA,NA,NA,NA
+104,Sunday,29-Jul,NYY,home,KCR,W,0,3,NA,67-37,2,5.5,Happ,Smith,Chapman,2:51:00,D,46192,2199663.04,July,78,0,25
+105,Tuesday,31-Jul,NYY,home,BAL,W,0,3,NA,68-37,2,5,Tanaka,Ramirez,Chapman,3:11:00,N,46473,2213044.26,August,84,0,41
+106,Wednesday,1-Aug,NYY,home,BAL,L,0,7,NA,68-38,2,5.5,Cobb,Gray,NA,3:08:00,D,47206,2247949.72,August,86,1,97
+114,Thursday,9-Aug,NYY,home,TEX,W,0,3,NA,72-42,2,8,Happ,Jurado,NA,2:31:00,N,43455,2069327.1,August,86,0,44
+115,Friday,10-Aug,NYY,home,TEX,L,0,12,NA,72-43,2,9,Minor,Tanaka,NA,3:34:00,N,45198,2152328.76,August,80,1,85
+116,Saturday,11-Aug,NYY,home,TEX,W,1,3,NA,73-43,2,9.5,Betances,Martin,Chapman,3:16:00,D,45933,2187329.46,August,84,1,94
+117,Sunday,12-Aug,NYY,home,TEX,W,0,2,NA,74-43,2,9.5,Sabathia,Perez,NA,2:59:00,D,41304,1966896.48,August,75,0,23
+118,Monday,13-Aug,NYY,home,NYM,L,0,8,NA,74-44,2,10,deGrom,Severino,Gsellman,3:18:00,N,47233,2249235.46,August,82,1,95
+119,Tuesday,14-Aug,NYY,home,TBR,W,0,1,NA,75-44,2,10,Happ,Wood,Chapman,2:32:00,N,40393,1923514.66,August,86,0,60
+120,Wednesday,15-Aug,NYY,home,TBR,L,0,6,NA,75-45,2,10,Yarbrough,Cessa,NA,3:17:00,N,42716,2034135.92,August,88,0,81
+121,Thursday,16-Aug,NYY,home,TBR,L,0,3,NA,75-46,2,10.5,Snell,Tanaka,Kolarek,3:22:00,D,41033,1953991.46,August,87,1,86
+122,Friday,17-Aug,NYY,home,TOR,W,1,5,7,76-46,2,10.5,Green,Biagini,Robertson,2:32:00,N,42121,2005802.02,August,85,1,99
+123,Saturday,18-Aug,NYY,home,TOR,W,0,6,NA,77-46,2,10.5,Severino,Reid-Foley,NA,3:29:00,D,44778,2132328.36,August,72,0,42
+124,Sunday,19-Aug,NYY,home,TOR,W,0,2,NA,78-46,2,9.5,Happ,Borucki,NA,3:18:00,D,43176,2056041.12,August,74,0,32
+131,Monday,27-Aug,NYY,home,CHW,L,0,6,NA,83-48,2,6.5,Rodon,Tanaka,NA,3:02:00,N,41456,1974134.72,August,94,0,28
+132,Tuesday,28-Aug,NYY,home,CHW,W-wo,0,4,NA,84-48,2,6.5,Betances,Covey,NA,3:03:00,N,40015,1905514.3,August,92,0,28
+133,Wednesday,29-Aug,NYY,home,CHW,L,0,4,NA,84-49,2,7.5,Lopez,Sabathia,Fry,2:55:00,N,40887,1947038.94,August,90,0,16
+134,Thursday,30-Aug,NYY,home,DET,L,0,8,NA,84-50,2,8.5,Wilson,Betances,Greene,3:32:00,N,37195,1771225.9,August,78,0,16
+135,Friday,31-Aug,NYY,home,DET,W,0,5,NA,85-50,2,7.5,Britton,Jimenez,Robertson,3:10:00,N,41026,1953658.12,August,78,0,20
+136,Saturday,1-Sep,NYY,home,DET,W,1,1,NA,86-50,2,7.5,Tanaka,Norris,Betances,3:00:00,D,42816,2038897.92,September,81,0,84
+137,Sunday,2-Sep,NYY,home,DET,L,0,11,NA,86-51,2,7.5,Boyd,Lynn,NA,3:41:00,D,43721,2081994.02,September,90,0,59
+147,Friday,14-Sep,NYY,home,TOR,W,0,0,NA,91-56,2,9.5,Tanaka,Estrada,Cessa,3:07:00,N,40138,1911371.56,September,80,0,44
+148,Saturday,15-Sep,NYY,home,TOR,L,0,8,NA,91-57,2,10.5,Reid-Foley,Sabathia,Giles,3:54:00,D,43130,2053850.6,September,84,0,20
+149,Sunday,16-Sep,NYY,home,TOR,L,0,3,NA,91-58,2,11.5,Pannone,Betances,Giles,2:50:00,D,41758,1988515.96,September,79,0,61
+150,Tuesday,18-Sep,NYY,home,BOS,W,0,2,NA,92-58,2,10.5,Green,Workman,Britton,3:13:00,N,38695,1842655.9,September,81,0,24
+151,Wednesday,19-Sep,NYY,home,BOS,W,0,1,NA,93-58,2,9.5,Severino,Price,NA,3:17:00,N,43297,2061803.14,September,72,0,44
+152,Thursday,20-Sep,NYY,home,BOS,L,0,11,NA,93-59,2,10.5,Wright,Green,NA,4:02:00,N,47351,2254854.62,September,72,0,66
+153,Friday,21-Sep,NYY,home,BAL,W,0,8,NA,94-59,2,10.5,Sabathia,Ramirez,Betances,3:35:00,N,39903,1900180.86,September,74,0,69
+154,Saturday,22-Sep,NYY,home,BAL,W-wo,0,2,11,95-59,2,9.5,Kahnle,Fry,NA,3:53:00,D,40185,1913609.7,September,66,0,29
+155,Sunday,23-Sep,NYY,home,BAL,L,0,6,NA,95-60,2,9.5,Meisinger,Cole,Givens,3:19:00,D,43606,2076517.72,September,69,0,32
