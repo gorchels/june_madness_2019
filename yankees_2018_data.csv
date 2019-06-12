@@ -1,162 +1,162 @@
-Gm#,Date,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Revenue
-1,"Thursday, Mar 29",boxscore,NYY,@,TOR,W,6,1,,Jan-00,1,Tied,Severino,Happ,,2:51,D,"48,115",2291236.3
-2,"Friday, Mar 30",boxscore,NYY,@,TOR,W,4,2,,Feb-00,1,up 0.5,Tanaka,Sanchez,Chapman,2:49,N,"33,716",1605555.92
-3,"Saturday, Mar 31",boxscore,NYY,@,TOR,L,3,5,,1-Feb,1,Tied,Tepera,Betances,Osuna,2:37,D,"37,692",1794893.04
-4,"Sunday, Apr 1",boxscore,NYY,@,TOR,L,4,7,,2-Feb,2,1,Clippard,Robertson,Oh,3:03,D,"29,091",1385313.42
-5,"Tuesday, Apr 3",boxscore,NYY,,TBR,W,11,4,,2-Mar,3,1.5,Kahnle,Pruitt,,3:29,D,"46,776",2227473.12
-6,"Wednesday, Apr 4",boxscore,NYY,,TBR,W,7,2,,2-Apr,2,1,Severino,Snell,,2:44,D,"40,028",1906133.36
-7,"Thursday, Apr 5",boxscore,NYY,,BAL,L,2,5,,3-Apr,2,2,Cashner,Tanaka,Brach,3:15,N,"33,653",1602555.86
-8,"Friday, Apr 6",boxscore,NYY,,BAL,L,3,7,14,4-Apr,3,2.5,Araujo,Holder,,5:20,N,"34,244",1630699.28
-9,"Saturday, Apr 7",boxscore,NYY,,BAL,W,8,3,,4-May,2,2.5,Gray,Tillman,,3:03,D,"34,388",1637556.56
-10,"Sunday, Apr 8",boxscore,NYY,,BAL,L,7,8,12,5-May,3,3.5,Bleier,Warren,Brach,4:48,D,"37,096",1766511.52
-11,"Tuesday, Apr 10",boxscore,NYY,@,BOS,L,1,14,,6-May,3,4.5,Sale,Severino,,3:11,N,"32,357",1540840.34
-12,"Wednesday, Apr 11",boxscore,NYY,@,BOS,W,10,7,,6-Jun,3,3.5,Tanaka,Price,,3:59,N,"32,400",1542888
-13,"Thursday, Apr 12",boxscore,NYY,@,BOS,L,3,6,,7-Jun,3,4.5,Porcello,Gray,Kimbrel,3:01,N,"36,341",1730558.42
-14,"Friday, Apr 13",boxscore,NYY,@,DET,W,8,6,,7-Jul,3,4.5,Montgomery,Fiers,Chapman,3:28,N,"21,363",1017306.06
-15,"Monday, Apr 16",boxscore,NYY,,MIA,W,12,1,,7-Aug,3,5,Severino,Smith,,3:38,N,"32,525",1548840.5
-16,"Tuesday, Apr 17",boxscore,NYY,,MIA,L,1,9,,8-Aug,3,6,Garcia,Tanaka,,3:11,N,"34,005",1619318.1
-17,"Thursday, Apr 19",boxscore,NYY,,TOR,W,4,3,,8-Sep,3,6.5,Green,Sanchez,Chapman,3:00,N,"36,665",1745987.3
-18,"Friday, Apr 20",boxscore,NYY,,TOR,L,5,8,,9-Sep,3,7.5,Estrada,German,Osuna,3:22,N,"39,197",1866561.14
-19,"Saturday, Apr 21",boxscore,NYY,,TOR,W,9,1,,9-Oct,3,6.5,Montgomery,Stroman,,2:50,D,"40,986",1951753.32
-20,"Sunday, Apr 22",boxscore,NYY,,TOR,W,5,1,,9-Nov,3,5.5,Severino,Garcia,,2:47,D,"43,628",2077565.36
-21,"Monday, Apr 23",boxscore,NYY,,MIN,W,14,1,,9-Dec,3,5,Tanaka,Odorizzi,,3:38,N,"39,249",1869037.38
-22,"Tuesday, Apr 24",boxscore,NYY,,MIN,W,8,3,,13-9,3,4,Sabathia,Berrios,,3:11,N,"39,025",1858370.5
-23,"Wednesday, Apr 25",boxscore,NYY,,MIN,W,7,4,,14-9,2,4,Green,Lynn,Chapman,3:40,N,"39,243",1868751.66
-24,"Thursday, Apr 26",boxscore,NYY,,MIN,W-wo,4,3,,15-9,2,4,Betances,Rodney,,3:05,D,"40,758",1940895.96
-25,"Friday, Apr 27",boxscore,NYY,@,LAA,W,4,3,10,16-9,2,3,Robertson,Parker,Chapman,3:15,N,"40,416",1924609.92
-26,"Saturday, Apr 28",boxscore,NYY,@,LAA,W,11,1,,17-9,2,2,Tanaka,Richards,,3:09,N,"44,649",2126185.38
-27,"Sunday, Apr 29",boxscore,NYY,@,LAA,W,2,1,,18-9,2,2,Sabathia,Skaggs,Chapman,3:00,N,"44,593",2123518.66
-28,"Monday, Apr 30",boxscore,NYY,@,HOU,L,1,2,,18-10,2,3,Morton,Gray,Giles,2:31,N,"30,061",1431504.82
-29,"Tuesday, May 1",boxscore,NYY,@,HOU,W,4,0,,19-10,2,2,Robertson,Giles,,2:57,N,"34,386",1637461.32
-30,"Wednesday, May 2",boxscore,NYY,@,HOU,W,4,0,,20-10,2,2,Severino,Keuchel,,2:31,N,"31,617",1505601.54
-31,"Thursday, May 3",boxscore,NYY,@,HOU,W,6,5,,21-10,2,1,Shreve,Harris,Chapman,3:11,D,"34,838",1658985.56
-32,"Friday, May 4",boxscore,NYY,,CLE,W-wo,7,6,,22-10,2,1,Chapman,Ogando,,3:22,N,"46,869",2231901.78
-33,"Saturday, May 5",boxscore,NYY,,CLE,W,5,2,,23-10,2,1,Gray,Bauer,Robertson,2:31,D,"43,075",2051231.5
-34,"Sunday, May 6",boxscore,NYY,,CLE,W-wo,7,4,,24-10,2,1,Shreve,Allen,,3:05,D,"40,107",1909895.34
-35,"Tuesday, May 8",boxscore,NYY,,BOS,W,3,2,,25-10,1,Tied,Robertson,Hembree,Chapman,3:29,N,"45,773",2179710.26
-36,"Wednesday, May 9",boxscore,NYY,,BOS,W,9,6,,26-10,1,up 1.0,Holder,Barnes,Chapman,3:42,N,"47,088",2242330.56
-37,"Thursday, May 10",boxscore,NYY,,BOS,L,4,5,,26-11,1,Tied,Kelly,Betances,Kimbrel,3:21,N,"46,899",2233330.38
-38,"Friday, May 11",boxscore,NYY,,OAK,L,5,10,,26-12,1,Tied,Graveman,Gray,Treinen,3:02,N,"43,093",2052088.66
-39,"Saturday, May 12",boxscore,NYY,,OAK,W-wo,7,6,11,27-12,1,Tied,Cole,Hatcher,,4:15,D,"41,859",1993325.58
-40,"Sunday, May 13",boxscore,NYY,,OAK,W,6,2,,28-12,1,Tied,Severino,Anderson,,3:07,D,"40,538",1930419.56
-41,"Tuesday, May 15",boxscore,NYY,@,WSN,L,3,5,,28-13,1,up 0.5,Suero,Green,Doolittle,2:55,N,"41,567",1979420.54
-42,"Friday, May 18",boxscore,NYY,@,KCR,L,2,5,,28-14,2,0.5,Junis,Sabathia,Herrera,2:46,N,"26,433",1258739.46
-43,"Saturday, May 19",boxscore,NYY,@,KCR,W,8,3,,29-14,2,0.5,Severino,Duffy,,2:57,N,"33,684",1604032.08
-44,"Sunday, May 20",boxscore,NYY,@,KCR,W,10,1,,30-14,2,0.5,Gray,Skoglund,,2:31,D,"24,121",1148642.02
-45,"Monday, May 21",boxscore,NYY,@,TEX,W,10,5,,31-14,1,Tied,Tanaka,Colon,,3:07,N,"29,553",1407313.86
-46,"Tuesday, May 22",boxscore,NYY,@,TEX,L,4,6,,31-15,2,1,Hamels,German,Kela,3:07,N,"30,325",1444076.5
-47,"Wednesday, May 23",boxscore,NYY,@,TEX,L,10,12,,31-16,2,2,Claudio,Robertson,Kela,3:20,N,"31,304",1490696.48
-48,"Friday, May 25",boxscore,NYY,,LAA,W,2,1,,32-16,2,1.5,Green,Johnson,Chapman,3:00,N,"46,056",2193186.72
-49,"Saturday, May 26",boxscore,NYY,,LAA,L,4,11,,32-17,2,2.5,Barria,Gray,,3:30,N,"44,565",2122185.3
-50,"Sunday, May 27",boxscore,NYY,,LAA,W,3,1,,33-17,2,1.5,Tanaka,Richards,Chapman,3:27,D,"46,109",2195710.58
-51,"Monday, May 28",boxscore,NYY,,HOU,L,1,5,,33-18,2,2.5,Verlander,German,,3:14,D,"46,583",2218282.46
-52,"Tuesday, May 29",boxscore,NYY,,HOU,W-wo,6,5,10,34-18,2,2.5,Chapman,Peacock,,3:47,N,"45,458",2164709.96
-53,"Wednesday, May 30",boxscore,NYY,,HOU,W,5,3,,35-18,2,2.5,Severino,Keuchel,Chapman,2:47,N,"45,229",2153804.98
-54,"Friday, Jun 1",boxscore,NYY,@,BAL,W,4,1,,36-18,2,1,Gray,Cashner,Chapman,3:03,N,"26,500",1261930
-55,"Saturday, Jun 2",boxscore,NYY,@,BAL,W,8,5,,37-18,2,1,Tanaka,Gausman,,3:31,D,"32,823",1563031.26
-56,"Monday, Jun 4 (1)",boxscore,NYY,@,DET,W,7,4,,38-18,2,1.5,Severino,VerHagen,Chapman,2:46,D,"28,016",1334121.92
-57,"Monday, Jun 4 (2)",boxscore,NYY,@,DET,L,2,4,,38-19,2,1.5,Fiers,German,Greene,3:07,N,"24,165",1150737.3
-58,"Tuesday, Jun 5",boxscore,NYY,@,TOR,W,7,2,,39-19,2,1.5,Sabathia,Oh,,2:38,N,"29,308",1395646.96
-59,"Wednesday, Jun 6",boxscore,NYY,@,TOR,W,3,0,13,40-19,2,1.5,Robertson,Biagini,Chapman,3:41,N,"27,838",1325645.56
-60,"Friday, Jun 8",boxscore,NYY,@,NYM,W,4,1,,41-19,1,Tied,Green,deGrom,Chapman,2:28,N,"42,961",2045802.82
-61,"Saturday, Jun 9",boxscore,NYY,@,NYM,W,4,3,,42-19,1,Tied,Robertson,Swarzak,Chapman,2:57,N,"43,603",2076374.86
-62,"Sunday, Jun 10",boxscore,NYY,@,NYM,L,0,2,,42-20,1,Tied,Lugo,Severino,Swarzak,2:40,N,"36,171",1722463.02
-63,"Tuesday, Jun 12",boxscore,NYY,,WSN,W,3,0,,43-20,2,0.5,Sabathia,Roark,Chapman,2:48,N,"44,220",2105756.4
-64,"Wednesday, Jun 13",boxscore,NYY,,WSN,L,4,5,,43-21,2,1.5,Miller,Shreve,Doolittle,3:18,N,"45,030",2144328.6
-65,"Thursday, Jun 14",boxscore,NYY,,TBR,W,4,3,,44-21,2,1.5,German,Snell,Chapman,2:49,N,"45,066",2146042.92
-66,"Friday, Jun 15",boxscore,NYY,,TBR,W,5,0,,45-21,2,0.5,Loaisiga,Eovaldi,,2:44,N,"45,112",2148233.44
-67,"Saturday, Jun 16",boxscore,NYY,,TBR,W,4,1,,46-21,1,up 0.5,Severino,Yarbrough,Chapman,2:47,D,"46,249",2202377.38
-68,"Sunday, Jun 17",boxscore,NYY,,TBR,L,1,3,,46-22,2,0.5,Roe,Sabathia,Romo,2:45,D,"46,400",2209568
-69,"Monday, Jun 18",boxscore,NYY,@,WSN,W,4,2,,47-22,1,Tied,Gray,Fedde,Chapman,3:26,N,"42,723",2034469.26
-70,"Tuesday, Jun 19",boxscore,NYY,,SEA,W,7,2,,48-22,1,up 1.0,German,Gonzales,,2:28,N,"45,122",2148709.64
-71,"Wednesday, Jun 20",boxscore,NYY,,SEA,W-wo,7,5,,49-22,1,up 2.0,Chapman,Cook,,3:28,N,"46,047",2192758.14
-72,"Thursday, Jun 21",boxscore,NYY,,SEA,W,4,3,,50-22,1,up 2.0,Severino,Paxton,Chapman,2:51,D,"46,658",2221853.96
-73,"Friday, Jun 22",boxscore,NYY,@,TBR,L,1,2,,50-23,1,up 1.0,Yarbrough,Sabathia,Romo,3:08,N,"27,252",1297740.24
-74,"Saturday, Jun 23",boxscore,NYY,@,TBR,L,0,4,,50-24,1,up 1.0,Font,Gray,,2:39,D,"29,831",1420552.22
-75,"Sunday, Jun 24",boxscore,NYY,@,TBR,L-wo,6,7,12,50-25,1,Tied,Yarbrough,Shreve,,4:16,D,"23,667",1127022.54
-76,"Monday, Jun 25",boxscore,NYY,@,PHI,W,4,2,,51-25,1,up 0.5,Loaisiga,Velasquez,Chapman,3:20,N,"44,136",2101756.32
-77,"Tuesday, Jun 26",boxscore,NYY,@,PHI,W,6,0,,52-25,1,up 0.5,Severino,Arrieta,,2:38,N,"43,568",2074708.16
-78,"Wednesday, Jun 27",boxscore,NYY,@,PHI,L,0,3,,52-26,2,0.5,Eflin,Cessa,Dominguez,2:43,N,"42,028",2001373.36
-79,"Friday, Jun 29",boxscore,NYY,,BOS,W,8,1,,53-26,1,Tied,Sabathia,Rodriguez,,2:41,N,"47,120",2243854.4
-80,"Saturday, Jun 30",boxscore,NYY,,BOS,L,0,11,,53-27,2,1,Sale,Gray,,3:17,N,"47,125",2244092.5
-81,"Sunday, Jul 1",boxscore,NYY,,BOS,W,11,1,,54-27,1,Tied,Severino,Price,,3:14,N,"46,795",2228377.9
-82,"Monday, Jul 2",boxscore,NYY,,ATL,L,3,5,11,54-28,2,1,Biddle,Robertson,Minter,3:53,N,"43,792",2085375.04
-83,"Tuesday, Jul 3",boxscore,NYY,,ATL,W,8,5,,55-28,2,1,Cole,Newcomb,Chapman,3:46,N,"45,448",2164233.76
-84,"Wednesday, Jul 4",boxscore,NYY,,ATL,W,6,2,,56-28,2,1,Sabathia,Teheran,,3:07,D,"46,658",2221853.96
-85,"Friday, Jul 6",boxscore,NYY,@,TOR,L,2,6,,56-29,2,2,Biagini,Gray,,3:07,N,"37,254",1774035.48
-86,"Saturday, Jul 7",boxscore,NYY,@,TOR,W,8,5,,57-29,2,2,Severino,Happ,,3:31,D,"44,352",2112042.24
-87,"Sunday, Jul 8",boxscore,NYY,@,TOR,W,2,1,10,58-29,2,2,Green,Clippard,Robertson,2:51,D,"39,866",1898418.92
-89,"Monday, Jul 9 (2)",boxscore,NYY,@,BAL,W,10,2,,59-30,2,2.5,Cessa,Ramirez,Gallegos,3:13,N,"26,340",1254310.8
-90,"Tuesday, Jul 10",boxscore,NYY,@,BAL,L-wo,5,6,,59-31,2,3.5,Britton,Betances,,3:07,N,"18,418",877065.16
-91,"Wednesday, Jul 11",boxscore,NYY,@,BAL,W,9,0,,60-31,2,3.5,Gray,Bundy,,3:22,N,"17,808",848016.96
-92,"Thursday, Jul 12",boxscore,NYY,@,CLE,W,7,4,,61-31,2,3.5,Robertson,Kluber,Chapman,3:07,N,"31,267",1488934.54
-93,"Friday, Jul 13",boxscore,NYY,@,CLE,L,5,6,,61-32,2,3.5,Bieber,German,Allen,2:59,N,"35,078",1670414.36
-94,"Saturday, Jul 14",boxscore,NYY,@,CLE,W,5,4,,62-32,2,3.5,Robertson,Clevinger,Chapman,3:10,N,"35,353",1683509.86
-95,"Sunday, Jul 15",boxscore,NYY,@,CLE,L,2,5,,62-33,2,4.5,Carrasco,Green,Allen,2:52,D,"32,644",1554507.28
-96,"Friday, Jul 20",boxscore,NYY,,NYM,L,5,7,,62-34,2,5.5,Syndergaard,German,Gsellman,3:46,N,"47,175",2246473.5
-97,"Saturday, Jul 21",boxscore,NYY,,NYM,W,7,6,,63-34,2,4.5,Gray,Matz,Shreve,3:01,D,"47,102",2242997.24
-98,"Monday, Jul 23",boxscore,NYY,@,TBR,L,6,7,,63-35,2,6,Andriese,Severino,Alvarado,3:26,N,"14,670",698585.4
-99,"Tuesday, Jul 24",boxscore,NYY,@,TBR,W,4,0,,64-35,2,5,Tanaka,Chirinos,,2:37,N,"19,579",932351.98
-100,"Wednesday, Jul 25",boxscore,NYY,@,TBR,L,2,3,,64-36,2,5.5,Castillo,Cessa,Romo,2:46,D,"27,372",1303454.64
-101,"Thursday, Jul 26",boxscore,NYY,,KCR,W,7,2,,65-36,2,4.5,Gray,Junis,,2:58,N,"46,965",2236473.3
-102,"Saturday, Jul 28 (1)",boxscore,NYY,,KCR,L,5,10,,65-37,2,5.5,Keller,Severino,,3:06,D,"46,571",2217711.02
-103,"Saturday, Jul 28 (2)",boxscore,NYY,,KCR,W,5,4,,66-37,2,5.5,Betances,Flynn,Chapman,3:27,N,"45,043",2144947.66
-104,"Sunday, Jul 29",boxscore,NYY,,KCR,W,6,3,,67-37,2,5.5,Happ,Smith,Chapman,2:51,D,"46,192",2199663.04
-105,"Tuesday, Jul 31",boxscore,NYY,,BAL,W,6,3,,68-37,2,5,Tanaka,Ramirez,Chapman,3:11,N,"46,473",2213044.26
-106,"Wednesday, Aug 1",boxscore,NYY,,BAL,L,5,7,,68-38,2,5.5,Cobb,Gray,,3:08,D,"47,206",2247949.72
-107,"Thursday, Aug 2",boxscore,NYY,@,BOS,L,7,15,,68-39,2,6.5,Johnson,Holder,,3:25,N,"37,317",1777035.54
-108,"Friday, Aug 3",boxscore,NYY,@,BOS,L,1,4,,68-40,2,7.5,Porcello,Severino,,2:15,N,"37,231",1772940.22
-109,"Saturday, Aug 4",boxscore,NYY,@,BOS,L,1,4,,68-41,2,8.5,Eovaldi,Adams,,2:33,D,"36,699",1747606.38
-110,"Sunday, Aug 5",boxscore,NYY,@,BOS,L-wo,4,5,10,68-42,2,9.5,Barnes,Holder,,4:39,N,"37,830",1801464.6
-111,"Monday, Aug 6",boxscore,NYY,@,CHW,W,7,0,,69-42,2,9,Lynn,Covey,,2:59,N,"22,084",1051640.08
-112,"Tuesday, Aug 7",boxscore,NYY,@,CHW,W,4,3,13,70-42,2,9,Gray,Avilan,,4:26,N,"19,643",935399.66
-113,"Wednesday, Aug 8",boxscore,NYY,@,CHW,W,7,3,,71-42,2,9,Severino,Giolito,,3:05,N,"27,038",1287549.56
-114,"Thursday, Aug 9",boxscore,NYY,,TEX,W,7,3,,72-42,2,8,Happ,Jurado,,2:31,N,"43,455",2069327.1
-115,"Friday, Aug 10",boxscore,NYY,,TEX,L,7,12,,72-43,2,9,Minor,Tanaka,,3:34,N,"45,198",2152328.76
-116,"Saturday, Aug 11",boxscore,NYY,,TEX,W,5,3,,73-43,2,9.5,Betances,Martin,Chapman,3:16,D,"45,933",2187329.46
-117,"Sunday, Aug 12",boxscore,NYY,,TEX,W,7,2,,74-43,2,9.5,Sabathia,Perez,,2:59,D,"41,304",1966896.48
-118,"Monday, Aug 13",boxscore,NYY,,NYM,L,5,8,,74-44,2,10,deGrom,Severino,Gsellman,3:18,N,"47,233",2249235.46
-119,"Tuesday, Aug 14",boxscore,NYY,,TBR,W,4,1,,75-44,2,10,Happ,Wood,Chapman,2:32,N,"40,393",1923514.66
-120,"Wednesday, Aug 15",boxscore,NYY,,TBR,L,1,6,,75-45,2,10,Yarbrough,Cessa,,3:17,N,"42,716",2034135.92
-121,"Thursday, Aug 16",boxscore,NYY,,TBR,L,1,3,,75-46,2,10.5,Snell,Tanaka,Kolarek,3:22,D,"41,033",1953991.46
-122,"Friday, Aug 17",boxscore,NYY,,TOR,W,7,5,7,76-46,2,10.5,Green,Biagini,Robertson,2:32,N,"42,121",2005802.02
-123,"Saturday, Aug 18",boxscore,NYY,,TOR,W,11,6,,77-46,2,10.5,Severino,Reid-Foley,,3:29,D,"44,778",2132328.36
-124,"Sunday, Aug 19",boxscore,NYY,,TOR,W,10,2,,78-46,2,9.5,Happ,Borucki,,3:18,D,"43,176",2056041.12
-125,"Tuesday, Aug 21",boxscore,NYY,@,MIA,W,2,1,12,79-46,2,8,Cole,Guerra,Kahnle,4:14,N,"26,275",1251215.5
-126,"Wednesday, Aug 22",boxscore,NYY,@,MIA,L,3,9,,79-47,2,9,Garcia,Lynn,,3:25,N,"25,547",1216548.14
-127,"Friday, Aug 24",boxscore,NYY,@,BAL,W,7,5,10,80-47,2,8.5,Green,Carroll,Britton,3:29,N,"27,150",1292883
-128,"Saturday, Aug 25 (1)",boxscore,NYY,@,BAL,W,10,3,,81-47,2,7,Happ,Yacabonis,Cessa,3:06,D,"32,445",1545030.9
-129,"Saturday, Aug 25 (2)",boxscore,NYY,@,BAL,W,5,1,,82-47,2,7,Gray,Cashner,Betances,2:50,N,"26,236",1249358.32
-130,"Sunday, Aug 26",boxscore,NYY,@,BAL,W,5,3,,83-47,2,6,Severino,Bundy,Robertson,3:18,N,"17,343",825873.66
-131,"Monday, Aug 27",boxscore,NYY,,CHW,L,2,6,,83-48,2,6.5,Rodon,Tanaka,,3:02,N,"41,456",1974134.72
-132,"Tuesday, Aug 28",boxscore,NYY,,CHW,W-wo,5,4,,84-48,2,6.5,Betances,Covey,,3:03,N,"40,015",1905514.3
-133,"Wednesday, Aug 29",boxscore,NYY,,CHW,L,1,4,,84-49,2,7.5,Lopez,Sabathia,Fry,2:55,N,"40,887",1947038.94
-134,"Thursday, Aug 30",boxscore,NYY,,DET,L,7,8,,84-50,2,8.5,Wilson,Betances,Greene,3:32,N,"37,195",1771225.9
-135,"Friday, Aug 31",boxscore,NYY,,DET,W,7,5,,85-50,2,7.5,Britton,Jimenez,Robertson,3:10,N,"41,026",1953658.12
-136,"Saturday, Sep 1",boxscore,NYY,,DET,W,2,1,,86-50,2,7.5,Tanaka,Norris,Betances,3:00,D,"42,816",2038897.92
-137,"Sunday, Sep 2",boxscore,NYY,,DET,L,7,11,,86-51,2,7.5,Boyd,Lynn,,3:41,D,"43,721",2081994.02
-138,"Monday, Sep 3",boxscore,NYY,@,OAK,L,3,6,,86-52,2,8.5,Cahill,Sabathia,Treinen,3:04,D,"40,546",1930800.52
-139,"Tuesday, Sep 4",boxscore,NYY,@,OAK,W,5,1,,87-52,2,8.5,Robertson,Rodney,,3:12,N,"17,536",835064.32
-140,"Wednesday, Sep 5",boxscore,NYY,@,OAK,L,2,8,,87-53,2,9.5,Fiers,Severino,,2:53,N,"21,004",1000210.48
-141,"Friday, Sep 7",boxscore,NYY,@,SEA,W,4,0,,88-53,2,8.5,Tanaka,Paxton,,2:32,N,"32,195",1533125.9
-142,"Saturday, Sep 8",boxscore,NYY,@,SEA,W,4,2,,89-53,2,7.5,Lynn,Vincent,Betances,2:49,N,"38,733",1844465.46
-143,"Sunday, Sep 9",boxscore,NYY,@,SEA,L,2,3,,89-54,2,8.5,Colome,Betances,Diaz,3:05,D,"34,917",1662747.54
-144,"Monday, Sep 10",boxscore,NYY,@,MIN,W,7,2,,90-54,2,8,Happ,Gibson,,3:39,N,"21,565",1026925.3
-145,"Tuesday, Sep 11",boxscore,NYY,@,MIN,L,5,10,,90-55,2,9,Stewart,Gray,,3:04,N,"20,343",968733.66
-146,"Wednesday, Sep 12",boxscore,NYY,@,MIN,L,1,3,,90-56,2,10,Odorizzi,Severino,Hildenberger,2:46,N,"24,134",1149261.08
-147,"Friday, Sep 14",boxscore,NYY,,TOR,W,11,0,,91-56,2,9.5,Tanaka,Estrada,Cessa,3:07,N,"40,138",1911371.56
-148,"Saturday, Sep 15",boxscore,NYY,,TOR,L,7,8,,91-57,2,10.5,Reid-Foley,Sabathia,Giles,3:54,D,"43,130",2053850.6
-149,"Sunday, Sep 16",boxscore,NYY,,TOR,L,2,3,,91-58,2,11.5,Pannone,Betances,Giles,2:50,D,"41,758",1988515.96
-150,"Tuesday, Sep 18",boxscore,NYY,,BOS,W,3,2,,92-58,2,10.5,Green,Workman,Britton,3:13,N,"38,695",1842655.9
-151,"Wednesday, Sep 19",boxscore,NYY,,BOS,W,10,1,,93-58,2,9.5,Severino,Price,,3:17,N,"43,297",2061803.14
-152,"Thursday, Sep 20",boxscore,NYY,,BOS,L,6,11,,93-59,2,10.5,Wright,Green,,4:02,N,"47,351",2254854.62
-153,"Friday, Sep 21",boxscore,NYY,,BAL,W,10,8,,94-59,2,10.5,Sabathia,Ramirez,Betances,3:35,N,"39,903",1900180.86
-154,"Saturday, Sep 22",boxscore,NYY,,BAL,W-wo,3,2,11,95-59,2,9.5,Kahnle,Fry,,3:53,D,"40,185",1913609.7
-155,"Sunday, Sep 23",boxscore,NYY,,BAL,L,3,6,,95-60,2,9.5,Meisinger,Cole,Givens,3:19,D,"43,606",2076517.72
-156,"Monday, Sep 24",boxscore,NYY,@,TBR,W,4,1,,96-60,2,9.5,Gray,Yarbrough,Britton,3:01,N,"13,832",658679.84
-157,"Tuesday, Sep 25",boxscore,NYY,@,TBR,W,9,2,,97-60,2,9,Severino,Faria,,3:14,N,"10,953",521581.86
-158,"Wednesday, Sep 26",boxscore,NYY,@,TBR,L,7,8,,97-61,2,9.5,Chirinos,Tanaka,Romo,3:52,N,"11,325",539296.5
-159,"Thursday, Sep 27",boxscore,NYY,@,TBR,W,12,1,,98-61,2,9,Sabathia,Schultz,,2:49,D,"12,349",588059.38
-160,"Friday, Sep 28",boxscore,NYY,@,BOS,W,11,6,,99-61,2,8,Happ,Johnson,,3:27,N,"36,779",1751415.98
-161,"Saturday, Sep 29",boxscore,NYY,@,BOS,W,8,5,,100-61,2,7,Lynn,Rodriguez,Chapman,3:40,D,"36,375",1732177.5
-162,"Sunday, Sep 30",boxscore,NYY,@,BOS,L,2,10,,100-62,2,8,Rodriguez,Cessa,,3:20,D,"36,201",1723891.62
+Gm#,Day,Date,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Revenue
+1,Thursday, Mar 29,NYY,@,TOR,W,6,1,,Jan-00,1,Tied,Severino,Happ,,2:51,D,"48,115",2291236.3
+2,Friday, Mar 30,NYY,@,TOR,W,4,2,,Feb-00,1,up 0.5,Tanaka,Sanchez,Chapman,2:49,N,"33,716",1605555.92
+3,Saturday, Mar 31,NYY,@,TOR,L,3,5,,1-Feb,1,Tied,Tepera,Betances,Osuna,2:37,D,"37,692",1794893.04
+4,Sunday, Apr 1,NYY,@,TOR,L,4,7,,2-Feb,2,1,Clippard,Robertson,Oh,3:03,D,"29,091",1385313.42
+5,Tuesday, Apr 3,NYY,,TBR,W,11,4,,2-Mar,3,1.5,Kahnle,Pruitt,,3:29,D,"46,776",2227473.12
+6,Wednesday, Apr 4,NYY,,TBR,W,7,2,,2-Apr,2,1,Severino,Snell,,2:44,D,"40,028",1906133.36
+7,Thursday, Apr 5,NYY,,BAL,L,2,5,,3-Apr,2,2,Cashner,Tanaka,Brach,3:15,N,"33,653",1602555.86
+8,Friday, Apr 6,NYY,,BAL,L,3,7,14,4-Apr,3,2.5,Araujo,Holder,,5:20,N,"34,244",1630699.28
+9,Saturday, Apr 7,NYY,,BAL,W,8,3,,4-May,2,2.5,Gray,Tillman,,3:03,D,"34,388",1637556.56
+10,Sunday, Apr 8,NYY,,BAL,L,7,8,12,5-May,3,3.5,Bleier,Warren,Brach,4:48,D,"37,096",1766511.52
+11,Tuesday, Apr 10,NYY,@,BOS,L,1,14,,6-May,3,4.5,Sale,Severino,,3:11,N,"32,357",1540840.34
+12,Wednesday, Apr 11,NYY,@,BOS,W,10,7,,6-Jun,3,3.5,Tanaka,Price,,3:59,N,"32,400",1542888
+13,Thursday, Apr 12,NYY,@,BOS,L,3,6,,7-Jun,3,4.5,Porcello,Gray,Kimbrel,3:01,N,"36,341",1730558.42
+14,Friday, Apr 13,NYY,@,DET,W,8,6,,7-Jul,3,4.5,Montgomery,Fiers,Chapman,3:28,N,"21,363",1017306.06
+15,Monday, Apr 16,NYY,,MIA,W,12,1,,7-Aug,3,5,Severino,Smith,,3:38,N,"32,525",1548840.5
+16,Tuesday, Apr 17,NYY,,MIA,L,1,9,,8-Aug,3,6,Garcia,Tanaka,,3:11,N,"34,005",1619318.1
+17,Thursday, Apr 19,NYY,,TOR,W,4,3,,8-Sep,3,6.5,Green,Sanchez,Chapman,3:00,N,"36,665",1745987.3
+18,Friday, Apr 20,NYY,,TOR,L,5,8,,9-Sep,3,7.5,Estrada,German,Osuna,3:22,N,"39,197",1866561.14
+19,Saturday, Apr 21,NYY,,TOR,W,9,1,,9-Oct,3,6.5,Montgomery,Stroman,,2:50,D,"40,986",1951753.32
+20,Sunday, Apr 22,NYY,,TOR,W,5,1,,9-Nov,3,5.5,Severino,Garcia,,2:47,D,"43,628",2077565.36
+21,Monday, Apr 23,NYY,,MIN,W,14,1,,9-Dec,3,5,Tanaka,Odorizzi,,3:38,N,"39,249",1869037.38
+22,Tuesday, Apr 24,NYY,,MIN,W,8,3,,13-9,3,4,Sabathia,Berrios,,3:11,N,"39,025",1858370.5
+23,Wednesday, Apr 25,NYY,,MIN,W,7,4,,14-9,2,4,Green,Lynn,Chapman,3:40,N,"39,243",1868751.66
+24,Thursday, Apr 26,NYY,,MIN,W-wo,4,3,,15-9,2,4,Betances,Rodney,,3:05,D,"40,758",1940895.96
+25,Friday, Apr 27,NYY,@,LAA,W,4,3,10,16-9,2,3,Robertson,Parker,Chapman,3:15,N,"40,416",1924609.92
+26,Saturday, Apr 28,NYY,@,LAA,W,11,1,,17-9,2,2,Tanaka,Richards,,3:09,N,"44,649",2126185.38
+27,Sunday, Apr 29,NYY,@,LAA,W,2,1,,18-9,2,2,Sabathia,Skaggs,Chapman,3:00,N,"44,593",2123518.66
+28,Monday, Apr 30,NYY,@,HOU,L,1,2,,18-10,2,3,Morton,Gray,Giles,2:31,N,"30,061",1431504.82
+29,Tuesday, May 1,NYY,@,HOU,W,4,0,,19-10,2,2,Robertson,Giles,,2:57,N,"34,386",1637461.32
+30,Wednesday, May 2,NYY,@,HOU,W,4,0,,20-10,2,2,Severino,Keuchel,,2:31,N,"31,617",1505601.54
+31,Thursday, May 3,NYY,@,HOU,W,6,5,,21-10,2,1,Shreve,Harris,Chapman,3:11,D,"34,838",1658985.56
+32,Friday, May 4,NYY,,CLE,W-wo,7,6,,22-10,2,1,Chapman,Ogando,,3:22,N,"46,869",2231901.78
+33,Saturday, May 5,NYY,,CLE,W,5,2,,23-10,2,1,Gray,Bauer,Robertson,2:31,D,"43,075",2051231.5
+34,Sunday, May 6,NYY,,CLE,W-wo,7,4,,24-10,2,1,Shreve,Allen,,3:05,D,"40,107",1909895.34
+35,Tuesday, May 8,NYY,,BOS,W,3,2,,25-10,1,Tied,Robertson,Hembree,Chapman,3:29,N,"45,773",2179710.26
+36,Wednesday, May 9,NYY,,BOS,W,9,6,,26-10,1,up 1.0,Holder,Barnes,Chapman,3:42,N,"47,088",2242330.56
+37,Thursday, May 10,NYY,,BOS,L,4,5,,26-11,1,Tied,Kelly,Betances,Kimbrel,3:21,N,"46,899",2233330.38
+38,Friday, May 11,NYY,,OAK,L,5,10,,26-12,1,Tied,Graveman,Gray,Treinen,3:02,N,"43,093",2052088.66
+39,Saturday, May 12,NYY,,OAK,W-wo,7,6,11,27-12,1,Tied,Cole,Hatcher,,4:15,D,"41,859",1993325.58
+40,Sunday, May 13,NYY,,OAK,W,6,2,,28-12,1,Tied,Severino,Anderson,,3:07,D,"40,538",1930419.56
+41,Tuesday, May 15,NYY,@,WSN,L,3,5,,28-13,1,up 0.5,Suero,Green,Doolittle,2:55,N,"41,567",1979420.54
+42,Friday, May 18,NYY,@,KCR,L,2,5,,28-14,2,0.5,Junis,Sabathia,Herrera,2:46,N,"26,433",1258739.46
+43,Saturday, May 19,NYY,@,KCR,W,8,3,,29-14,2,0.5,Severino,Duffy,,2:57,N,"33,684",1604032.08
+44,Sunday, May 20,NYY,@,KCR,W,10,1,,30-14,2,0.5,Gray,Skoglund,,2:31,D,"24,121",1148642.02
+45,Monday, May 21,NYY,@,TEX,W,10,5,,31-14,1,Tied,Tanaka,Colon,,3:07,N,"29,553",1407313.86
+46,Tuesday, May 22,NYY,@,TEX,L,4,6,,31-15,2,1,Hamels,German,Kela,3:07,N,"30,325",1444076.5
+47,Wednesday, May 23,NYY,@,TEX,L,10,12,,31-16,2,2,Claudio,Robertson,Kela,3:20,N,"31,304",1490696.48
+48,Friday, May 25,NYY,,LAA,W,2,1,,32-16,2,1.5,Green,Johnson,Chapman,3:00,N,"46,056",2193186.72
+49,Saturday, May 26,NYY,,LAA,L,4,11,,32-17,2,2.5,Barria,Gray,,3:30,N,"44,565",2122185.3
+50,Sunday, May 27,NYY,,LAA,W,3,1,,33-17,2,1.5,Tanaka,Richards,Chapman,3:27,D,"46,109",2195710.58
+51,Monday, May 28,NYY,,HOU,L,1,5,,33-18,2,2.5,Verlander,German,,3:14,D,"46,583",2218282.46
+52,Tuesday, May 29,NYY,,HOU,W-wo,6,5,10,34-18,2,2.5,Chapman,Peacock,,3:47,N,"45,458",2164709.96
+53,Wednesday, May 30,NYY,,HOU,W,5,3,,35-18,2,2.5,Severino,Keuchel,Chapman,2:47,N,"45,229",2153804.98
+54,Friday, Jun 1,NYY,@,BAL,W,4,1,,36-18,2,1,Gray,Cashner,Chapman,3:03,N,"26,500",1261930
+55,Saturday, Jun 2,NYY,@,BAL,W,8,5,,37-18,2,1,Tanaka,Gausman,,3:31,D,"32,823",1563031.26
+56,Monday, Jun 4 (1),NYY,@,DET,W,7,4,,38-18,2,1.5,Severino,VerHagen,Chapman,2:46,D,"28,016",1334121.92
+57,Monday, Jun 4 (2),NYY,@,DET,L,2,4,,38-19,2,1.5,Fiers,German,Greene,3:07,N,"24,165",1150737.3
+58,Tuesday, Jun 5,NYY,@,TOR,W,7,2,,39-19,2,1.5,Sabathia,Oh,,2:38,N,"29,308",1395646.96
+59,Wednesday, Jun 6,NYY,@,TOR,W,3,0,13,40-19,2,1.5,Robertson,Biagini,Chapman,3:41,N,"27,838",1325645.56
+60,Friday, Jun 8,NYY,@,NYM,W,4,1,,41-19,1,Tied,Green,deGrom,Chapman,2:28,N,"42,961",2045802.82
+61,Saturday, Jun 9,NYY,@,NYM,W,4,3,,42-19,1,Tied,Robertson,Swarzak,Chapman,2:57,N,"43,603",2076374.86
+62,Sunday, Jun 10,NYY,@,NYM,L,0,2,,42-20,1,Tied,Lugo,Severino,Swarzak,2:40,N,"36,171",1722463.02
+63,Tuesday, Jun 12,NYY,,WSN,W,3,0,,43-20,2,0.5,Sabathia,Roark,Chapman,2:48,N,"44,220",2105756.4
+64,Wednesday, Jun 13,NYY,,WSN,L,4,5,,43-21,2,1.5,Miller,Shreve,Doolittle,3:18,N,"45,030",2144328.6
+65,Thursday, Jun 14,NYY,,TBR,W,4,3,,44-21,2,1.5,German,Snell,Chapman,2:49,N,"45,066",2146042.92
+66,Friday, Jun 15,NYY,,TBR,W,5,0,,45-21,2,0.5,Loaisiga,Eovaldi,,2:44,N,"45,112",2148233.44
+67,Saturday, Jun 16,NYY,,TBR,W,4,1,,46-21,1,up 0.5,Severino,Yarbrough,Chapman,2:47,D,"46,249",2202377.38
+68,Sunday, Jun 17,NYY,,TBR,L,1,3,,46-22,2,0.5,Roe,Sabathia,Romo,2:45,D,"46,400",2209568
+69,Monday, Jun 18,NYY,@,WSN,W,4,2,,47-22,1,Tied,Gray,Fedde,Chapman,3:26,N,"42,723",2034469.26
+70,Tuesday, Jun 19,NYY,,SEA,W,7,2,,48-22,1,up 1.0,German,Gonzales,,2:28,N,"45,122",2148709.64
+71,Wednesday, Jun 20,NYY,,SEA,W-wo,7,5,,49-22,1,up 2.0,Chapman,Cook,,3:28,N,"46,047",2192758.14
+72,Thursday, Jun 21,NYY,,SEA,W,4,3,,50-22,1,up 2.0,Severino,Paxton,Chapman,2:51,D,"46,658",2221853.96
+73,Friday, Jun 22,NYY,@,TBR,L,1,2,,50-23,1,up 1.0,Yarbrough,Sabathia,Romo,3:08,N,"27,252",1297740.24
+74,Saturday, Jun 23,NYY,@,TBR,L,0,4,,50-24,1,up 1.0,Font,Gray,,2:39,D,"29,831",1420552.22
+75,Sunday, Jun 24,NYY,@,TBR,L-wo,6,7,12,50-25,1,Tied,Yarbrough,Shreve,,4:16,D,"23,667",1127022.54
+76,Monday, Jun 25,NYY,@,PHI,W,4,2,,51-25,1,up 0.5,Loaisiga,Velasquez,Chapman,3:20,N,"44,136",2101756.32
+77,Tuesday, Jun 26,NYY,@,PHI,W,6,0,,52-25,1,up 0.5,Severino,Arrieta,,2:38,N,"43,568",2074708.16
+78,Wednesday, Jun 27,NYY,@,PHI,L,0,3,,52-26,2,0.5,Eflin,Cessa,Dominguez,2:43,N,"42,028",2001373.36
+79,Friday, Jun 29,NYY,,BOS,W,8,1,,53-26,1,Tied,Sabathia,Rodriguez,,2:41,N,"47,120",2243854.4
+80,Saturday, Jun 30,NYY,,BOS,L,0,11,,53-27,2,1,Sale,Gray,,3:17,N,"47,125",2244092.5
+81,Sunday, Jul 1,NYY,,BOS,W,11,1,,54-27,1,Tied,Severino,Price,,3:14,N,"46,795",2228377.9
+82,Monday, Jul 2,NYY,,ATL,L,3,5,11,54-28,2,1,Biddle,Robertson,Minter,3:53,N,"43,792",2085375.04
+83,Tuesday, Jul 3,NYY,,ATL,W,8,5,,55-28,2,1,Cole,Newcomb,Chapman,3:46,N,"45,448",2164233.76
+84,Wednesday, Jul 4,NYY,,ATL,W,6,2,,56-28,2,1,Sabathia,Teheran,,3:07,D,"46,658",2221853.96
+85,Friday, Jul 6,NYY,@,TOR,L,2,6,,56-29,2,2,Biagini,Gray,,3:07,N,"37,254",1774035.48
+86,Saturday, Jul 7,NYY,@,TOR,W,8,5,,57-29,2,2,Severino,Happ,,3:31,D,"44,352",2112042.24
+87,Sunday, Jul 8,NYY,@,TOR,W,2,1,10,58-29,2,2,Green,Clippard,Robertson,2:51,D,"39,866",1898418.92
+89,Monday, Jul 9 (2),NYY,@,BAL,W,10,2,,59-30,2,2.5,Cessa,Ramirez,Gallegos,3:13,N,"26,340",1254310.8
+90,Tuesday, Jul 10,NYY,@,BAL,L-wo,5,6,,59-31,2,3.5,Britton,Betances,,3:07,N,"18,418",877065.16
+91,Wednesday, Jul 11,NYY,@,BAL,W,9,0,,60-31,2,3.5,Gray,Bundy,,3:22,N,"17,808",848016.96
+92,Thursday, Jul 12,NYY,@,CLE,W,7,4,,61-31,2,3.5,Robertson,Kluber,Chapman,3:07,N,"31,267",1488934.54
+93,Friday, Jul 13,NYY,@,CLE,L,5,6,,61-32,2,3.5,Bieber,German,Allen,2:59,N,"35,078",1670414.36
+94,Saturday, Jul 14,NYY,@,CLE,W,5,4,,62-32,2,3.5,Robertson,Clevinger,Chapman,3:10,N,"35,353",1683509.86
+95,Sunday, Jul 15,NYY,@,CLE,L,2,5,,62-33,2,4.5,Carrasco,Green,Allen,2:52,D,"32,644",1554507.28
+96,Friday, Jul 20,NYY,,NYM,L,5,7,,62-34,2,5.5,Syndergaard,German,Gsellman,3:46,N,"47,175",2246473.5
+97,Saturday, Jul 21,NYY,,NYM,W,7,6,,63-34,2,4.5,Gray,Matz,Shreve,3:01,D,"47,102",2242997.24
+98,Monday, Jul 23,NYY,@,TBR,L,6,7,,63-35,2,6,Andriese,Severino,Alvarado,3:26,N,"14,670",698585.4
+99,Tuesday, Jul 24,NYY,@,TBR,W,4,0,,64-35,2,5,Tanaka,Chirinos,,2:37,N,"19,579",932351.98
+100,Wednesday, Jul 25,NYY,@,TBR,L,2,3,,64-36,2,5.5,Castillo,Cessa,Romo,2:46,D,"27,372",1303454.64
+101,Thursday, Jul 26,NYY,,KCR,W,7,2,,65-36,2,4.5,Gray,Junis,,2:58,N,"46,965",2236473.3
+102,Saturday, Jul 28 (1),NYY,,KCR,L,5,10,,65-37,2,5.5,Keller,Severino,,3:06,D,"46,571",2217711.02
+103,Saturday, Jul 28 (2),NYY,,KCR,W,5,4,,66-37,2,5.5,Betances,Flynn,Chapman,3:27,N,"45,043",2144947.66
+104,Sunday, Jul 29,NYY,,KCR,W,6,3,,67-37,2,5.5,Happ,Smith,Chapman,2:51,D,"46,192",2199663.04
+105,Tuesday, Jul 31,NYY,,BAL,W,6,3,,68-37,2,5,Tanaka,Ramirez,Chapman,3:11,N,"46,473",2213044.26
+106,Wednesday, Aug 1,NYY,,BAL,L,5,7,,68-38,2,5.5,Cobb,Gray,,3:08,D,"47,206",2247949.72
+107,Thursday, Aug 2,NYY,@,BOS,L,7,15,,68-39,2,6.5,Johnson,Holder,,3:25,N,"37,317",1777035.54
+108,Friday, Aug 3,NYY,@,BOS,L,1,4,,68-40,2,7.5,Porcello,Severino,,2:15,N,"37,231",1772940.22
+109,Saturday, Aug 4,NYY,@,BOS,L,1,4,,68-41,2,8.5,Eovaldi,Adams,,2:33,D,"36,699",1747606.38
+110,Sunday, Aug 5,NYY,@,BOS,L-wo,4,5,10,68-42,2,9.5,Barnes,Holder,,4:39,N,"37,830",1801464.6
+111,Monday, Aug 6,NYY,@,CHW,W,7,0,,69-42,2,9,Lynn,Covey,,2:59,N,"22,084",1051640.08
+112,Tuesday, Aug 7,NYY,@,CHW,W,4,3,13,70-42,2,9,Gray,Avilan,,4:26,N,"19,643",935399.66
+113,Wednesday, Aug 8,NYY,@,CHW,W,7,3,,71-42,2,9,Severino,Giolito,,3:05,N,"27,038",1287549.56
+114,Thursday, Aug 9,NYY,,TEX,W,7,3,,72-42,2,8,Happ,Jurado,,2:31,N,"43,455",2069327.1
+115,Friday, Aug 10,NYY,,TEX,L,7,12,,72-43,2,9,Minor,Tanaka,,3:34,N,"45,198",2152328.76
+116,Saturday, Aug 11,NYY,,TEX,W,5,3,,73-43,2,9.5,Betances,Martin,Chapman,3:16,D,"45,933",2187329.46
+117,Sunday, Aug 12,NYY,,TEX,W,7,2,,74-43,2,9.5,Sabathia,Perez,,2:59,D,"41,304",1966896.48
+118,Monday, Aug 13,NYY,,NYM,L,5,8,,74-44,2,10,deGrom,Severino,Gsellman,3:18,N,"47,233",2249235.46
+119,Tuesday, Aug 14,NYY,,TBR,W,4,1,,75-44,2,10,Happ,Wood,Chapman,2:32,N,"40,393",1923514.66
+120,Wednesday, Aug 15,NYY,,TBR,L,1,6,,75-45,2,10,Yarbrough,Cessa,,3:17,N,"42,716",2034135.92
+121,Thursday, Aug 16,NYY,,TBR,L,1,3,,75-46,2,10.5,Snell,Tanaka,Kolarek,3:22,D,"41,033",1953991.46
+122,Friday, Aug 17,NYY,,TOR,W,7,5,7,76-46,2,10.5,Green,Biagini,Robertson,2:32,N,"42,121",2005802.02
+123,Saturday, Aug 18,NYY,,TOR,W,11,6,,77-46,2,10.5,Severino,Reid-Foley,,3:29,D,"44,778",2132328.36
+124,Sunday, Aug 19,NYY,,TOR,W,10,2,,78-46,2,9.5,Happ,Borucki,,3:18,D,"43,176",2056041.12
+125,Tuesday, Aug 21,NYY,@,MIA,W,2,1,12,79-46,2,8,Cole,Guerra,Kahnle,4:14,N,"26,275",1251215.5
+126,Wednesday, Aug 22,NYY,@,MIA,L,3,9,,79-47,2,9,Garcia,Lynn,,3:25,N,"25,547",1216548.14
+127,Friday, Aug 24,NYY,@,BAL,W,7,5,10,80-47,2,8.5,Green,Carroll,Britton,3:29,N,"27,150",1292883
+128,Saturday, Aug 25 (1),NYY,@,BAL,W,10,3,,81-47,2,7,Happ,Yacabonis,Cessa,3:06,D,"32,445",1545030.9
+129,Saturday, Aug 25 (2),NYY,@,BAL,W,5,1,,82-47,2,7,Gray,Cashner,Betances,2:50,N,"26,236",1249358.32
+130,Sunday, Aug 26,NYY,@,BAL,W,5,3,,83-47,2,6,Severino,Bundy,Robertson,3:18,N,"17,343",825873.66
+131,Monday, Aug 27,NYY,,CHW,L,2,6,,83-48,2,6.5,Rodon,Tanaka,,3:02,N,"41,456",1974134.72
+132,Tuesday, Aug 28,NYY,,CHW,W-wo,5,4,,84-48,2,6.5,Betances,Covey,,3:03,N,"40,015",1905514.3
+133,Wednesday, Aug 29,NYY,,CHW,L,1,4,,84-49,2,7.5,Lopez,Sabathia,Fry,2:55,N,"40,887",1947038.94
+134,Thursday, Aug 30,NYY,,DET,L,7,8,,84-50,2,8.5,Wilson,Betances,Greene,3:32,N,"37,195",1771225.9
+135,Friday, Aug 31,NYY,,DET,W,7,5,,85-50,2,7.5,Britton,Jimenez,Robertson,3:10,N,"41,026",1953658.12
+136,Saturday, Sep 1,NYY,,DET,W,2,1,,86-50,2,7.5,Tanaka,Norris,Betances,3:00,D,"42,816",2038897.92
+137,Sunday, Sep 2,NYY,,DET,L,7,11,,86-51,2,7.5,Boyd,Lynn,,3:41,D,"43,721",2081994.02
+138,Monday, Sep 3,NYY,@,OAK,L,3,6,,86-52,2,8.5,Cahill,Sabathia,Treinen,3:04,D,"40,546",1930800.52
+139,Tuesday, Sep 4,NYY,@,OAK,W,5,1,,87-52,2,8.5,Robertson,Rodney,,3:12,N,"17,536",835064.32
+140,Wednesday, Sep 5,NYY,@,OAK,L,2,8,,87-53,2,9.5,Fiers,Severino,,2:53,N,"21,004",1000210.48
+141,Friday, Sep 7,NYY,@,SEA,W,4,0,,88-53,2,8.5,Tanaka,Paxton,,2:32,N,"32,195",1533125.9
+142,Saturday, Sep 8,NYY,@,SEA,W,4,2,,89-53,2,7.5,Lynn,Vincent,Betances,2:49,N,"38,733",1844465.46
+143,Sunday, Sep 9,NYY,@,SEA,L,2,3,,89-54,2,8.5,Colome,Betances,Diaz,3:05,D,"34,917",1662747.54
+144,Monday, Sep 10,NYY,@,MIN,W,7,2,,90-54,2,8,Happ,Gibson,,3:39,N,"21,565",1026925.3
+145,Tuesday, Sep 11,NYY,@,MIN,L,5,10,,90-55,2,9,Stewart,Gray,,3:04,N,"20,343",968733.66
+146,Wednesday, Sep 12,NYY,@,MIN,L,1,3,,90-56,2,10,Odorizzi,Severino,Hildenberger,2:46,N,"24,134",1149261.08
+147,Friday, Sep 14,NYY,,TOR,W,11,0,,91-56,2,9.5,Tanaka,Estrada,Cessa,3:07,N,"40,138",1911371.56
+148,Saturday, Sep 15,NYY,,TOR,L,7,8,,91-57,2,10.5,Reid-Foley,Sabathia,Giles,3:54,D,"43,130",2053850.6
+149,Sunday, Sep 16,NYY,,TOR,L,2,3,,91-58,2,11.5,Pannone,Betances,Giles,2:50,D,"41,758",1988515.96
+150,Tuesday, Sep 18,NYY,,BOS,W,3,2,,92-58,2,10.5,Green,Workman,Britton,3:13,N,"38,695",1842655.9
+151,Wednesday, Sep 19,NYY,,BOS,W,10,1,,93-58,2,9.5,Severino,Price,,3:17,N,"43,297",2061803.14
+152,Thursday, Sep 20,NYY,,BOS,L,6,11,,93-59,2,10.5,Wright,Green,,4:02,N,"47,351",2254854.62
+153,Friday, Sep 21,NYY,,BAL,W,10,8,,94-59,2,10.5,Sabathia,Ramirez,Betances,3:35,N,"39,903",1900180.86
+154,Saturday, Sep 22,NYY,,BAL,W-wo,3,2,11,95-59,2,9.5,Kahnle,Fry,,3:53,D,"40,185",1913609.7
+155,Sunday, Sep 23,NYY,,BAL,L,3,6,,95-60,2,9.5,Meisinger,Cole,Givens,3:19,D,"43,606",2076517.72
+156,Monday, Sep 24,NYY,@,TBR,W,4,1,,96-60,2,9.5,Gray,Yarbrough,Britton,3:01,N,"13,832",658679.84
+157,Tuesday, Sep 25,NYY,@,TBR,W,9,2,,97-60,2,9,Severino,Faria,,3:14,N,"10,953",521581.86
+158,Wednesday, Sep 26,NYY,@,TBR,L,7,8,,97-61,2,9.5,Chirinos,Tanaka,Romo,3:52,N,"11,325",539296.5
+159,Thursday, Sep 27,NYY,@,TBR,W,12,1,,98-61,2,9,Sabathia,Schultz,,2:49,D,"12,349",588059.38
+160,Friday, Sep 28,NYY,@,BOS,W,11,6,,99-61,2,8,Happ,Johnson,,3:27,N,"36,779",1751415.98
+161,Saturday, Sep 29,NYY,@,BOS,W,8,5,,100-61,2,7,Lynn,Rodriguez,Chapman,3:40,D,"36,375",1732177.5
+162,Sunday, Sep 30,NYY,@,BOS,L,2,10,,100-62,2,8,Rodriguez,Cessa,,3:20,D,"36,201",1723891.62
