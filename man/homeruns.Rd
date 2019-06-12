@@ -2,14 +2,14 @@
 % Please edit documentation in R/homeruns.R
 \name{homeruns}
 \alias{homeruns}
-\title{homeruns summary}
+\title{Homerun Probability Increases From Humidity}
 \usage{
 homeruns(ah)
 }
 \arguments{
 \item{ah}{is the output from the SeasonHumd function
-This assumes that humidity below 50% will not have a significant effect on homeruns}
+This assumes that humidity below 50 percent will not have a significant effect on homeruns}
 }
 \description{
-homeruns summary
+This function converts the average humidity to increases in homerun probabilities.
 }
