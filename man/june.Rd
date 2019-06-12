@@ -2,14 +2,13 @@
 % Please edit documentation in R/june.R
 \name{june}
 \alias{june}
-\title{June}
+\title{Season Temperature Calculator}
 \usage{
 june(city)
 }
 \arguments{
-\item{city}{is your input table. See the package description and example data to see the format required
-'This function will return a tibble with the average humidity for each of the months of your baseball season}
+\item{city}{is your input table. See the package description and example data to see the format required(View(bronx)).}
 }
 \description{
-June
+This function will return a tibble with the average high temperature for each of the months of your baseball season
 }

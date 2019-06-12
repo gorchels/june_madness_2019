@@ -10,4 +10,3 @@ SeasonTemp = function(city) {
     arrange(match(month, month.name))
   return(average_high)
 }
-
