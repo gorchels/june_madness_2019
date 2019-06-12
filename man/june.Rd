@@ -4,11 +4,12 @@
 \alias{june}
 \title{June}
 \usage{
-june(x)
+june(city)
 }
 \arguments{
-\item{x}{means nothing}
+\item{city}{is your input table. See the package description and example data to see the format required
+'This function will return a tibble with the average humidity for each of the months of your baseball season}
 }
 \description{
-Is the best madness
+June
 }
