@@ -18,6 +18,9 @@ June madness is a package that quantifies the effects of climate on major league
 ```{r}
 library(tidyverse)
 library(testthat)
+library(junemadness)
+data("bronx")
+data("yankee_2018_data")
 ```
 
 
