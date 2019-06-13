@@ -13,28 +13,32 @@ vignette: >
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-June madness is a package that quantifies the effects of climate on major league baseball. This package requires that you have a tibble formatted like the example bronx data included in this package. To get data for your city of interest, you need data on the high, humidity, and if there was thunder for each day during the baseball season. To see the bronx data formatting View(bronx) in the console.  
+June madness is a package that quantifies the effects of climate on major league baseball. This package requires that you have a tibble formatted like the example Yankees_Weather data included in this package. To get data for your city of interest, you need data on the high, humidity, and if there was thunder for each day during the baseball season. To see the data formatting View(Yankees_Weather) in the console.  
 ###Load packages
 ```{r}
 library(tidyverse)
 library(testthat)
 library(junemadness)
-data("bronx")
-data("yankee_2018_data")
+data("Yankees_Weather")
+
 ```
 
 
 Calculating the average humidity for months during the baseball season
 ```{r}
-SeasonHumd(bronx)
+SeasonHumd(Yankees_Weather)
 ```
 
 Calculating the average high temperature for months during the baseball season
 
 ```{r}
-SeasonTemp(bronx)
+SeasonTemp(Yankees_Weather)
 ```
-```{r}
 
+Calculating the increases in homerun probability from increased humidity 
+
+```{r}
+yankee_h = SeasonHumd(Yankees_Weather)
+homeruns(yankee_h)
 ```
 
