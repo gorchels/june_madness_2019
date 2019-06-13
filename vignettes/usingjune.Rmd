@@ -44,8 +44,13 @@ homeruns(yankee_h)
 
 Calculating the probability of there being a homerun during a game given different weather inputs
 ```{r}
-
+#calculates the probability based off the fitted model of a game having at least one homerun when the temperature is 87 degrees fahrenheit and a humidity of 99%
 homerun_probability_computation(homerun = Yankees_Weather$Homerun, humid = Yankees_Weather$humidity, temp = Yankees_Weather$high, temperature = 87, humidity = 99)
+```
+
+Calculating association between weather and ticket revenue for baseball games
+```{r}
+compute_revenue_regression(revenue = Yankees_Weather$Revenue, storm = Yankees_Weather$thunder, humid = Yankees_Weather$humidity, temp = Yankees_Weather$high)
 ```
 
 
@@ -60,6 +65,7 @@ three_d_array <- array(
     c("2010", "2011", "2012", "2013"),
     c("Boston", "New York City")))
 
+#computing the average yearly temperature for the different cities
 yearly_temperature_computation(three_d_array)
 ```
 
