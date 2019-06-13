@@ -42,3 +42,24 @@ yankee_h = SeasonHumd(Yankees_Weather)
 homeruns(yankee_h)
 ```
 
+Calculating the probability of there being a homerun during a game given different weather inputs
+```{r}
+
+homerun_probability_computation(homerun = Yankees_Weather$Homerun, humid = Yankees_Weather$humidity, temp = Yankees_Weather$high, temperature = 87, humidity = 99)
+```
+
+
+Calculating the mean temperature across years for cities that have baseball teams
+```{r}
+#creating sample multidimensional array data
+three_d_array <- array(
+  sample(60:97,96,replace=T),
+  dim = c(12,4, 2),
+  dimnames = list(
+    c("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"),
+    c("2010", "2011", "2012", "2013"),
+    c("Boston", "New York City")))
+
+yearly_temperature_computation(three_d_array)
+```
+
