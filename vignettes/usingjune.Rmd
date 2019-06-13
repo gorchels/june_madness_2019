@@ -34,3 +34,7 @@ Calculating the average high temperature for months during the baseball season
 ```{r}
 SeasonTemp(bronx)
 ```
+```{r}
+
+```
+
