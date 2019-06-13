@@ -9,6 +9,7 @@
 #'
 
 compute_revenue_regression <- function(revenue, storm, temp, humid) {
+  library(kableExtra)
   rev_lm <- lm(revenue ~ storm + temp + humid)
-  return(summary(rev_lm))
+  kableExtra::kable(coef(rev_lm), col.names = "Revenue Regression Model Summary Coefficents")
 }
