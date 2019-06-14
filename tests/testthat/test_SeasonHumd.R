@@ -9,6 +9,6 @@ test_that(
         )
       )
 
-    expect_that(mean(SeasonHumd(boston_data)$avg_humd) > 0)
+    expect_that(SeasonHumd(boston_data), is_a('data.frame'))
   }
 )
