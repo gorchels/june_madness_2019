@@ -1,5 +1,5 @@
 test_that(
-  "SeasonHumdWorks",
+  "SeasonTempWorks",
   {
     boston_data =
       as.data.frame(
@@ -9,6 +9,6 @@ test_that(
         )
       )
 
-    expect_that(mean(SeasonHumd(boston_data)$avg_humd) > 0)
+    expect_that(mean(SeasonTemp(boston_data)$avg_humd) > 0)
   }
 )
