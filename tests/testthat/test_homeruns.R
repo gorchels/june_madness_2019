@@ -9,7 +9,7 @@ test_that(
         )
       )
 
-    expect_that((homeruns(boston_data)$avg_humd) = "0%")
+    expect_that((homeruns(boston_data)$avg_humd) > 0)
   }
 )
 
